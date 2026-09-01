@@ -12,7 +12,7 @@
 
 Exploring data, building analytical solutions, and continuously improving my skills.
 
-🌱 &nbsp;I'm currently learning **dbt, Prompt Engineering Basics**
+🌱 &nbsp;I'm currently learning **dbt**
 
 ### 🛠️ Tech Stack
 
